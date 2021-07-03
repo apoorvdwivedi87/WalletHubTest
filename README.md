@@ -1,6 +1,6 @@
 # WalletHubTest
 
-This project is created using Selenium , Java and testing framework used in TestNg.
+This project is created using Selenium , Java and TestNg.
 
 To run the test cases please follow belo steps :
 
