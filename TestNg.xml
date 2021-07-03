@@ -7,7 +7,7 @@
 	</listeners>
 	<test name="LoginTest">
 		<classes>
-		<!--	<class name="org.walletHub.tests.ValidateApplicationReview"/>  -->
+			<class name="org.walletHub.tests.ValidateApplicationReview"/>
 			<class name="org.walletHub.tests.ValidateFaceBookPost"/>
 		</classes>
 	</test>
